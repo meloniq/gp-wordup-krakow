@@ -8,9 +8,9 @@
 namespace Meloniq\GpWordUpKrakow;
 
 /**
- * Format Zip class.
+ * Facts class.
  *
- * This class handles the export of translations in a Zip file format.
+ * This class handles the display of random facts about GlotPress in the WordPress admin area.
  */
 class Facts {
 
