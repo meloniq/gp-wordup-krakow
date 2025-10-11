@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: GP WordUP Kraków\n"
-"POT-Creation-Date: 2025-10-03 01:15+0200\n"
+"POT-Creation-Date: 2025-10-11 15:49+0200\n"
 "PO-Revision-Date: 2025-10-03 11:59+0100\n"
 "Last-Translator: MELONIQ.NET\n"
 "Language-Team: MELONIQ.NET\n"
@@ -21,42 +21,66 @@ msgstr ""
 msgid "Did you know?"
 msgstr ""
 
-#: src/class-facts.php:44
+#: src/class-facts.php:57
 msgid "GlotPress was started in 2008 by Nikolay Bachiyski and is now maintained by the WordPress community."
 msgstr ""
 
-#: src/class-facts.php:45
+#: src/class-facts.php:58
 msgid "GlotPress is built using PHP and the WordPress framework."
 msgstr ""
 
-#: src/class-facts.php:46
+#: src/class-facts.php:59
 msgid "GlotPress supports multiple file formats for translation, including .po, .mo, .php, and .json."
 msgstr ""
 
-#: src/class-facts.php:47
+#: src/class-facts.php:60
 msgid "GlotPress allows collaborative translation efforts, enabling multiple translators to work on the same project simultaneously."
 msgstr ""
 
-#: src/class-facts.php:48
+#: src/class-facts.php:61
 msgid "GlotPress has a robust permission system that allows administrators to control access to projects and translations."
 msgstr ""
 
-#: src/class-facts.php:49
+#: src/class-facts.php:62
 msgid "GlotPress can be extended with plugins to add new features or modify existing functionality."
 msgstr ""
 
-#: src/class-facts.php:50
+#: src/class-facts.php:63
 msgid "GlotPress integrates with popular version control systems like Git to streamline the translation workflow."
 msgstr ""
 
-#: src/class-facts.php:51
+#: src/class-facts.php:64
 msgid "GlotPress provides a REST API that allows developers to interact with the platform programmatically."
 msgstr ""
 
-#: src/class-facts.php:52
+#: src/class-facts.php:65
 msgid "GlotPress is used by many open-source projects, including WordPress itself, to manage translations."
 msgstr ""
 
-#: src/class-facts.php:53
+#: src/class-facts.php:66
 msgid "GlotPress has a built-in glossary feature that helps maintain consistency in translations across projects."
+msgstr ""
+
+#: src/class-facts.php:80
+msgid "WordUp Kraków has been running since 2013, making it one of the longest-running WordPress meetups in Poland."
+msgstr ""
+
+#: src/class-facts.php:86
+#, php-format
+msgid "As of now, WordUp Kraków has hosted %d editions, each featuring insightful talks and networking opportunities."
+msgstr ""
+
+#: src/class-facts.php:94
+#, php-format
+msgid "WordUp Kraków is organized by a dedicated team of %d volunteers who are passionate about WordPress and community building."
+msgstr ""
+
+#: src/class-facts.php:102
+#, php-format
+msgid "Over the years, WordUp Kraków has been held in %d different locations around the city, showcasing its vibrant tech scene."
+msgstr ""
+
+#: src/class-facts.php:110
+#, php-format
+msgid "WordUp Kraków has featured talks from over %d speakers, sharing their expertise on various WordPress-related topics."
 msgstr ""

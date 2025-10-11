@@ -44,6 +44,10 @@ function gp_init() {
 	global $gpwuk_conference;
 
 	require_once __DIR__ . '/src/class-facts.php';
+	require_once __DIR__ . '/src/class-editions.php';
+	require_once __DIR__ . '/src/class-organizers.php';
+	require_once __DIR__ . '/src/class-locations.php';
+	require_once __DIR__ . '/src/class-speakers.php';
 
 	$gpwuk_conference['facts'] = new Facts();
 }
