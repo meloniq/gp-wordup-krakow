@@ -45,6 +45,18 @@ class Organizers {
 			'mkuchnik'       => array(
 				'name' => 'Maciek Kuchnik',
 			),
+			'mslezak'        => array(
+				'name' => 'Magdalena Ślężak',
+			),
+			'kjanoska'       => array(
+				'name' => 'Katarzyna Janoska',
+			),
+			'kkrowka'        => array(
+				'name' => 'Katarzyna Krówka',
+			),
+			'apiotrowski'    => array(
+				'name' => 'Andrzej Piotrowski',
+			),
 		);
 
 		return $data;
