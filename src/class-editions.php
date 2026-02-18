@@ -158,6 +158,21 @@ class Editions {
 				'location'   => 'politechnika-krakowska',
 				'organizers' => array( 'smisniakiewicz', 'kjanoska', 'apiotrowski', 'zmisniakiewicz', 'mslezak', 'kkrowka' ),
 			),
+			'2026-styczen'     => array(
+				'date'       => '2026-01-12',
+				'location'   => 'politechnika-krakowska',
+				'organizers' => array( 'lwilczak', 'smisniakiewicz' ),
+			),
+			'2026-luty'        => array(
+				'date'       => '2026-02-16',
+				'location'   => 'politechnika-krakowska',
+				'organizers' => array( 'lwilczak', 'smisniakiewicz' ),
+			),
+			'2026-marzec'      => array(
+				'date'       => '2026-03-16',
+				'location'   => 'politechnika-krakowska',
+				'organizers' => array( 'lwilczak', 'smisniakiewicz' ),
+			),
 		);
 
 		return $data;
